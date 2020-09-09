@@ -43,7 +43,7 @@ animation: cloudanimation 9s linear infinite;
 .car{
   width: 20%;
   position: absolute;
-  bottom: -2%;
+ margin-top: 300px;
   left: 15%;
 
 }
